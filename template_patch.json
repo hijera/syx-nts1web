@@ -1,0 +1,123 @@
+{
+  "0": {
+    "value": 0
+  },
+  "14": {
+    "value": 93,
+    "svalue": "AR Loop",
+    "max": 4,
+    "step": 31
+  },
+  "16": {
+    "value": 68
+  },
+  "19": {
+    "value": 37
+  },
+  "20": {
+    "value": 83
+  },
+  "21": {
+    "value": 59
+  },
+  "24": {
+    "value": 81
+  },
+  "26": {
+    "value": 97
+  },
+  "28": {
+    "value": 102
+  },
+  "29": {
+    "value": 12
+  },
+  "30": {
+    "value": 23
+  },
+  "31": {
+    "value": 103
+  },
+  "33": {
+    "value": 31
+  },
+  "34": {
+    "value": 11
+  },
+  "35": {
+    "value": 79
+  },
+  "36": {
+    "value": 86
+  },
+  "42": {
+    "value": 63,
+    "svalue": "BandPass 4p",
+    "max": 5,
+    "step": 21,
+    "active": 0
+  },
+  "43": {
+    "value": 82
+  },
+  "44": {
+    "value": 102
+  },
+  "45": {
+    "value": 97
+  },
+  "46": {
+    "value": 54
+  },
+  "53": {
+    "value": 0,
+    "svalue": "Sawtooth",
+    "max": 3,
+    "step": 42
+  },
+  "54": {
+    "value": 104
+  },
+  "55": {
+    "value": 85
+  },
+  "88": {
+    "value": 3,
+    "svalue": "Chorus",
+    "active": 0,
+    "max": 4,
+    "min": 1,
+    "step": 42
+  },
+  "89": {
+    "value": 5,
+    "svalue": "Stereo",
+    "active": 0,
+    "max": 5,
+    "min": 1,
+    "step": 31
+  },
+  "90": {
+    "value": 5,
+    "svalue": "Hall",
+    "active": 0,
+    "max": 5,
+    "min": 1,
+    "step": 31
+  },
+  "117": {
+    "value": 0,
+    "svalue": "Up",
+    "max": 9,
+    "step": 14
+  },
+  "118": {
+    "value": 3,
+    "svalue": "Octave",
+    "max": 5,
+    "step": 25
+  },
+  "119": {
+    "value": 18
+  }
+}
